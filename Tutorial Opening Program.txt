@@ -1,0 +1,3 @@
+Tutorial Opening Program:
+
+Please open the program using JupyterLab or PyCharm
